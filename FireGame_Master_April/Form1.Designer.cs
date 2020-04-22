@@ -41,7 +41,7 @@
             // gamest1
             // 
             this.gamest1.BackColor = System.Drawing.Color.White;
-            this.gamest1.Font = new System.Drawing.Font("Modern No. 20", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gamest1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gamest1.Location = new System.Drawing.Point(29, 12);
             this.gamest1.Name = "gamest1";
             this.gamest1.Size = new System.Drawing.Size(109, 41);
@@ -53,7 +53,7 @@
             // gameld
             // 
             this.gameld.BackColor = System.Drawing.Color.White;
-            this.gameld.Font = new System.Drawing.Font("Modern No. 20", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gameld.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gameld.Location = new System.Drawing.Point(156, 12);
             this.gameld.Name = "gameld";
             this.gameld.Size = new System.Drawing.Size(109, 41);
@@ -65,7 +65,7 @@
             // spin_gun
             // 
             this.spin_gun.BackColor = System.Drawing.Color.White;
-            this.spin_gun.Font = new System.Drawing.Font("Modern No. 20", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spin_gun.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spin_gun.Location = new System.Drawing.Point(284, 12);
             this.spin_gun.Name = "spin_gun";
             this.spin_gun.Size = new System.Drawing.Size(109, 41);
@@ -77,7 +77,7 @@
             // shot_btn
             // 
             this.shot_btn.BackColor = System.Drawing.Color.White;
-            this.shot_btn.Font = new System.Drawing.Font("Modern No. 20", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.shot_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.shot_btn.Location = new System.Drawing.Point(416, 12);
             this.shot_btn.Name = "shot_btn";
             this.shot_btn.Size = new System.Drawing.Size(109, 41);
@@ -89,7 +89,7 @@
             // shot_away
             // 
             this.shot_away.BackColor = System.Drawing.Color.White;
-            this.shot_away.Font = new System.Drawing.Font("Modern No. 20", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.shot_away.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.shot_away.Location = new System.Drawing.Point(545, 12);
             this.shot_away.Name = "shot_away";
             this.shot_away.Size = new System.Drawing.Size(109, 41);
@@ -101,7 +101,7 @@
             // reloadbtn
             // 
             this.reloadbtn.BackColor = System.Drawing.Color.White;
-            this.reloadbtn.Font = new System.Drawing.Font("Modern No. 20", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.reloadbtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.reloadbtn.Location = new System.Drawing.Point(675, 12);
             this.reloadbtn.Name = "reloadbtn";
             this.reloadbtn.Size = new System.Drawing.Size(109, 41);
@@ -133,7 +133,8 @@
             this.Controls.Add(this.gameld);
             this.Controls.Add(this.gamest1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = " vbnh juk,9omkinjfrcedxwza";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picBox)).EndInit();
             this.ResumeLayout(false);
 

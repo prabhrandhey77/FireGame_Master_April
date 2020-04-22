@@ -128,5 +128,10 @@ namespace FireGame_Master_April
             (new Form1()).Show();
             this.Hide();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
